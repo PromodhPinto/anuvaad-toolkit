@@ -150,4 +150,4 @@ params = {
 For more information about api documentation, please check @ ```https://github.com/project-anuvaad/anuvaad``
 
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)
+[MIT](https://choosealicense.com/licenses/mit)
